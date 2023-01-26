@@ -1,6 +1,6 @@
 Feature: Demo Feature
 
-    @demoTag
+    
     Scenario Outline: Run first demo feature
         Given Open google
         When Search a <keyword>
